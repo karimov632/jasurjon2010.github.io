@@ -1,0 +1,106 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karimov Jasur - Backend Developer</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <div class="max-w-4xl mx-auto p-6">
+    <header class="mb-10">
+      <h1 class="text-4xl font-bold">Karimov Jasur</h1>
+      <p class="text-lg text-gray-600">Backend Developer</p>
+      <p class="text-sm text-gray-500">Middle Level • 2 Years Experience • Age 15</p>
+    </header><section class="mb-10">
+  <h2 class="text-2xl font-semibold mb-2">About Me</h2>
+  <p>
+    I'm a 15-year-old backend developer from Uzbekistan. I really enjoy coding and learning new things.
+    Even though I am young, I already worked on some real projects. I know JavaScript and TypeScript well.
+    I use frameworks like NestJS and ExpressJS to build server-side apps. I can work with databases,
+    make APIs, and understand DevOps tools. I'm always ready to learn more and become a better developer.
+  </p>
+</section>
+
+<section class="mb-10">
+  <h2 class="text-2xl font-semibold mb-4">Technical Skills</h2>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">Languages</h3>
+    <ul class="list-disc pl-6">
+      <li>JavaScript – A popular programming language for websites and backend</li>
+      <li>TypeScript – A better and safer version of JavaScript</li>
+    </ul>
+  </div>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">Frameworks</h3>
+    <ul class="list-disc pl-6">
+      <li>NestJS – A powerful framework for building backend apps with TypeScript</li>
+      <li>ExpressJS – A simple and fast backend framework for Node.js</li>
+    </ul>
+  </div>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">Databases</h3>
+    <ul class="list-disc pl-6">
+      <li>MySQL – A database to store and manage data</li>
+      <li>PostgreSQL – A strong and flexible SQL database</li>
+      <li>Redis – A fast database for temporary data (caching)</li>
+    </ul>
+  </div>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">ORMs</h3>
+    <ul class="list-disc pl-6">
+      <li>Prisma – A modern tool to work with databases easily</li>
+      <li>TypeORM – A TypeScript tool to connect apps with databases</li>
+    </ul>
+  </div>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">Tools & DevOps</h3>
+    <ul class="list-disc pl-6">
+      <li>Docker – A tool to run apps in clean and separate environments</li>
+      <li>pm2 – A tool to keep backend apps always running</li>
+      <li>Git – A system to save and track code changes</li>
+      <li>Linux – A common operating system used for servers</li>
+    </ul>
+  </div>
+
+  <div class="mb-4">
+    <h3 class="text-xl font-semibold">Others</h3>
+    <ul class="list-disc pl-6">
+      <li>REST APIs – A way for websites and apps to talk to the server</li>
+      <li>WebSockets – A method for real-time updates (like chat apps)</li>
+      <li>Unit Testing (Jest) – Checking code automatically to find problems</li>
+      <li>CI/CD Basics – Automating testing and deploying code</li>
+    </ul>
+  </div>
+</section>
+
+<section class="mb-10">
+  <h2 class="text-2xl font-semibold mb-2">Education</h2>
+  <p>I studied backend development with Node.js. I learned how to work with databases, build APIs, and use modern tools for development.</p>
+</section>
+
+<section class="mb-10">
+  <h2 class="text-2xl font-semibold mb-2">Languages</h2>
+  <ul class="list-disc pl-6">
+    <li>Uzbek – Native</li>
+    <li>English – Pre Intermediate</li>
+    <li>Russian – Basic</li>
+  </ul>
+</section>
+
+<section class="mb-10">
+  <h2 class="text-2xl font-semibold mb-2">Let's Connect</h2>
+  <p>Do you have a project idea? I’m ready to work with you. Let’s create something great together!</p>
+</section>
+
+<footer class="text-center text-gray-500 mt-12">
+  <p>© 2025 Karimov Jasur. Built with HTML and Tailwind CSS.</p>
+</footer>
+
+  </div>
+</body>
+</html>
